@@ -1,0 +1,103 @@
+@media (min-width: 769px) {
+  .main-menu {
+    background-color: #01845A; }
+    .main-menu .container {
+      max-width: 100%; } }
+
+.brand img.hidden-md-down {
+  width: auto;
+  height: 100%; }
+
+.header-banner .close-button .close {
+  background-color: #01845A; }
+
+.home-email-signup {
+  background-color: #444; }
+
+footer {
+  background-color: #01845A; }
+
+footer,
+footer#footercontent a {
+  color: #fff; }
+
+footer .back-to-top i.fa-arrow-up {
+  color: #01845A; }
+
+footer .container div.collapsible-xs button.title {
+  color: #fff; }
+
+.btn-primary {
+  background-color: #01845A;
+  border-color: #01845A; }
+  .btn-primary:hover {
+    background-color: #01845A;
+    color: #fff; }
+
+.btn-primary.disabled,
+.btn-primary:disabled {
+  background-color: #01845A;
+  border-color: #01845A; }
+
+.btn-outline-primary {
+  color: #01845A;
+  border-color: #01845A; }
+  .btn-outline-primary:hover {
+    background-color: #01845A;
+    border-color: #01845A;
+    color: #fff; }
+
+header ~ #maincontent .container a:not(.btn-primary):not(.btn-outline-primary) {
+  color: #00539f; }
+
+h1.page-title,
+h1.page-title::before,
+h1.page-title:before {
+  background-color: #01845A; }
+
+.product-tile .tile-body .pdp-link a {
+  color: #00539f; }
+
+.price {
+  color: #333; }
+
+.product-name,
+.attribute label,
+.availability.row.product-availability {
+  color: #00539f; }
+
+.description-and-detail {
+  color: #333; }
+
+.refinements ul li button {
+  color: #333; }
+
+.minicart .minicart-quantity {
+  background-color: #01845A; }
+
+.line-item-name {
+  color: #00539f; }
+
+.optional-promo {
+  color: #00539f; }
+
+.edit-button,
+.btn-show-details,
+.btn-add-new {
+  color: #00539f; }
+
+.nav-tabs .nav-link.active {
+  border-bottom-color: #00539f; }
+
+.login-page .nav-item > .nav-link {
+  color: #495057;
+  outline: 0 none; }
+
+.card .card-header a {
+  color: #00539f; }
+
+.card .card-footer .card-link {
+  color: #00539f; }
+
+a.normal {
+  color: #00539f; }
